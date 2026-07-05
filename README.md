@@ -1,9 +1,11 @@
 Hello!
 I develop random projects for fun.
-I love minecraft, chess and cubing.
-My favourite video game is Half Life, I really like the portal series too. 
-You can contact me on **kartoffelmantuna@gmail.com** with PGP encryption.
 
+I love minecraft, chess and cubing.
+My favourite video game is Half Life, I really like the portal series too.
+I find unix-like operating systems really interesting...
+
+You can contact me on **kartoffelmantuna@gmail.com** with PGP encryption.
 Here is my PGP public key:
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
